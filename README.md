@@ -14,6 +14,10 @@ A tutorial for this app is available on [Humberto Rojas](https://www.linkedin.co
 
 ![](resources/Viktor-Opensees.mp4)
 
+<video width="320" height="240" controls>
+  <source src="resources/Viktor-Opensees.mp4" type="video/mp4">
+</video>
+
 
 # App structure
 This is an editor-only app type.
