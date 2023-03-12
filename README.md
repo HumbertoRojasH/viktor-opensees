@@ -9,3 +9,9 @@ The goal of the application is to show how the VIKTOR platform is used to provid
 Although this app only shows analysis in the linear range of the building, it could be extended to perform nonlinear analysis such as PushOver or a Nonlinear Dynamic Analysis.
 
 A published version of this app is available on [students-uni-fic-pe.viktor.ai](https://students-uni-fic-pe.viktor.ai/public/viktor-opensees)
+
+
+
+
+# App structure
+This is an editor-only app type.
