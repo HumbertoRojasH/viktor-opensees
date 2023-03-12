@@ -12,12 +12,7 @@ A published version of this app is available on [students-uni-fic-pe.viktor.ai](
 
 A tutorial for this app is available on [Humberto Rojas](https://www.linkedin.com/posts/humberto-rojas-huaroto-63908321a_openseespy-webapp-openseespy-ugcPost-7032172680837496833-MlbS?utm_source=share&utm_medium=member_desktop)
 
-![](resources/Viktor-Opensees.mp4)
-
-<video width="320" height="240" controls>
-  <source src="resources/Viktor-Opensees.mp4" type="video/mp4">
-</video>
-
+![](resources/Viktor-Opensees.gif)
 
 # App structure
 This is an editor-only app type.
