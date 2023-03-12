@@ -10,7 +10,7 @@ Although this app only shows analysis in the linear range of the building, it co
 
 A published version of this app is available on [students-uni-fic-pe.viktor.ai](https://students-uni-fic-pe.viktor.ai/public/viktor-opensees)
 
-![Viktor-OpenseesPy App](/resources/viktor-opensees.png)
+![Viktor-OpenseesPy App](resources/viktor-opensees.png)
 
 
 # App structure
